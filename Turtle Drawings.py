@@ -49,5 +49,15 @@ for i in range(15):
     turtle.pd()
     turtle.fd(250)
 
-
 turtle.done()
+
+#hexagon
+# turtle.bgcolor("white")
+# turtle.color("orange")
+# turtle.pu()
+# turtle.goto(-100, -240)
+# turtle.pd()
+# for i in range(8):
+#     turtle.fd(200)
+#     turtle.rt(315)
+# turtle.done()
